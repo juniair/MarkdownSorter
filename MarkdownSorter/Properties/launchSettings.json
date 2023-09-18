@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MarkdownSorter": {
+      "commandName": "Project",
+      "commandLineArgs": "--source D:\\09_Test\\05_MarkdownSorter\\Murph_License.md\r\n--output D:\\09_Test\\05_MarkdownSorter\\output.md"
+    }
+  }
+}
